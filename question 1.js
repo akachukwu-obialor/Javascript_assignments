@@ -5,5 +5,4 @@ let person = {
   
   person.height = 180;
   
-  console.log(person);
-  
+  console.log(person)
